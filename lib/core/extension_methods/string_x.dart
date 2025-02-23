@@ -9,12 +9,4 @@ extension StringX on String {
   /// print(context.l10n.champion.capitalizedDefinite) //if en: "Champion" / if ar: "البطل"
   /// ```
   String get capitalizedDefinite => capitalized.definite;
-
-  String get initials {
-    final parts = trim().split(' '); // Trim leading/trailing whitespace and split by space
-    if (parts.isEmpty) return '';
-    final firstInitial = parts.isNotEmpty ? parts.first[0] : '';
-    final lastInitial = parts.length > 1 ? parts.last[0] : '';
-    return (firstInitial + lastInitial).toUpperCase();
-  }
 }
