@@ -1,0 +1,35 @@
+name: btl_core
+description: A Very Good Project created by Very Good CLI.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
+  flutter: ^3.24.0
+
+dependencies:
+  bloc: ^9.0.0
+  bloc_concurrency: ^0.3.0
+  cloud_firestore: ^5.6.2
+  dartx: ^1.2.0
+  equatable: ^2.0.7
+  firebase_auth: ^5.4.1
+  flutter:
+    sdk: flutter
+  form_inputs:
+    git: https://github.com/ISL270/form_inputs
+  fpdart: ^1.1.1
+  google_sign_in: ^6.2.2
+  injectable: ^2.5.0
+  isar: ^3.1.0+1
+  isar_flutter_libs: ^3.1.0+1
+  path_provider: ^2.1.5
+  rxdart: ^0.28.0
+
+dev_dependencies:
+  build_runner: ^2.4.15
+  flutter_test:
+    sdk: flutter
+  injectable_generator: ^2.7.0
+  mocktail: ^1.0.4
+  very_good_analysis: ^7.0.0
