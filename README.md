@@ -13,7 +13,7 @@ A Very Good Project created by Very Good CLI.
 Install via `flutter pub add`:
 
 ```sh
-dart pub add btl_core
+dart pub add batal_core
 ```
 
 ---

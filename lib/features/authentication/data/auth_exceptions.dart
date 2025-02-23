@@ -1,4 +1,4 @@
-import 'package:btl_core/core/models/generic_exception.dart';
+import 'package:batal_core/core/models/generic_exception.dart';
 
 /// Thrown during the sign up process if a failure occurs.
 class SignUpWithEmailAndPasswordException implements BusinessException {

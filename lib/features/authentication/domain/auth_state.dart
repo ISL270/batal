@@ -1,4 +1,4 @@
-import 'package:btl_core/features/authentication/domain/user.dart';
+import 'package:batal_core/features/authentication/domain/user.dart';
 import 'package:equatable/equatable.dart';
 
 /// Represents the authentication state of the application.

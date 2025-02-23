@@ -1,5 +1,5 @@
-import 'package:btl_core/core/models/length_unit.dart';
-import 'package:btl_core/core/models/mass_unit.dart';
+import 'package:batal_core/core/models/length_unit.dart';
+import 'package:batal_core/core/models/mass_unit.dart';
 import 'package:equatable/equatable.dart';
 
 sealed class Field extends Equatable {

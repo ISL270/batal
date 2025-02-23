@@ -1,7 +1,7 @@
 // ignore_for_file: strict_raw_type
 
-import 'package:btl_core/core/extension_types/string_id.dart';
-import 'package:btl_core/core/isar/cache_model.dart';
+import 'package:batal_core/core/extension_types/string_id.dart';
+import 'package:batal_core/core/isar/cache_model.dart';
 import 'package:isar/isar.dart';
 
 abstract base class IsarService {

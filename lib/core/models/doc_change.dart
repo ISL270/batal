@@ -1,6 +1,6 @@
 // ignore_for_file: strict_raw_type
 
-import 'package:btl_core/core/firestore/remote_model.dart';
+import 'package:batal_core/core/firestore/remote_model.dart';
 
 /// This sealed class provides a type-safe way to handle various document change events,
 /// such as adding, modifying, or removing documents. It uses generics to ensure type
