@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:batal/core/isar/cache_model.dart';
 import 'package:batal/core/models/generic_exception.dart';
 import 'package:batal/features/authentication/data/auth_exceptions.dart';
-import 'package:batal/features/authentication/data/sources/remote/user_info_fs.dart';
+import 'package:batal/features/authentication/data/sources/remote/user_fs.dart';
 import 'package:batal/features/authentication/domain/auth_state.dart';
 import 'package:batal/features/authentication/domain/user.dart';
 import 'package:batal/features/authentication/domain/user_repository.dart';

@@ -2,7 +2,7 @@ import 'package:batal/core/isar/cache_model.dart';
 import 'package:batal/core/models/generic_exception.dart';
 import 'package:batal/features/authentication/data/sources/local/user_isar_source.dart';
 import 'package:batal/features/authentication/data/sources/remote/user_firestore_source.dart';
-import 'package:batal/features/authentication/data/sources/remote/user_info_fs.dart';
+import 'package:batal/features/authentication/data/sources/remote/user_fs.dart';
 import 'package:batal/features/authentication/domain/user.dart';
 import 'package:flutter/foundation.dart';
 import 'package:fpdart/fpdart.dart';
