@@ -1,4 +1,4 @@
-import 'package:batal_core/core/extension_methods/validator.dart';
+import 'package:batal/core/extension_methods/validator.dart';
 
 extension ArabicX on String {
   /// تضيف "ال" لاول الكلمة

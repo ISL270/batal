@@ -2,7 +2,7 @@
 
 import 'dart:async';
 
-import 'package:batal_core/core/models/generic_exception.dart';
+import 'package:batal/core/models/generic_exception.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 mixin FirestoreHelper {

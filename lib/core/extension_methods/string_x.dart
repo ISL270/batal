@@ -1,5 +1,5 @@
-import 'package:batal_core/core/extension_methods/arabic_x.dart';
-import 'package:batal_core/core/extension_methods/english_x.dart';
+import 'package:batal/core/extension_methods/arabic_x.dart';
+import 'package:batal/core/extension_methods/english_x.dart';
 
 extension StringX on String {
   /// Adds definite Alif Lam if Arabic,

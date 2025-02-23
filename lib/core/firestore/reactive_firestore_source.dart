@@ -2,13 +2,13 @@
 
 import 'dart:async';
 
-import 'package:batal_core/core/firestore/firestore_helper.dart';
-import 'package:batal_core/core/firestore/firestore_service.dart';
-import 'package:batal_core/core/firestore/remote_model.dart';
-import 'package:batal_core/core/models/doc_change.dart';
-import 'package:batal_core/core/models/generic_exception.dart';
-import 'package:batal_core/features/authentication/domain/auth_state.dart';
-import 'package:batal_core/features/authentication/domain/user.dart';
+import 'package:batal/core/firestore/firestore_helper.dart';
+import 'package:batal/core/firestore/firestore_service.dart';
+import 'package:batal/core/firestore/remote_model.dart';
+import 'package:batal/core/models/doc_change.dart';
+import 'package:batal/core/models/generic_exception.dart';
+import 'package:batal/features/authentication/domain/auth_state.dart';
+import 'package:batal/features/authentication/domain/user.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/foundation.dart';
 

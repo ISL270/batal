@@ -1,4 +1,4 @@
-import 'package:batal_core/core/models/generic_exception.dart';
+import 'package:batal/core/models/generic_exception.dart';
 import 'package:equatable/equatable.dart';
 
 /// Represents a type-safe state management mechanism for handling data loading states.

@@ -1,4 +1,4 @@
-import 'package:batal_core/core/extension_types/string_id.dart';
+import 'package:batal/core/extension_types/string_id.dart';
 import 'package:isar/isar.dart';
 
 abstract base class CacheModel<D> {

@@ -1,5 +1,5 @@
-import 'package:batal_core/core/isar/cache_model.dart';
-import 'package:batal_core/features/authentication/domain/user.dart';
+import 'package:batal/core/isar/cache_model.dart';
+import 'package:batal/features/authentication/domain/user.dart';
 
 abstract base class UserIsar extends CacheModel<User> {
   @override
