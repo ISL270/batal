@@ -24,7 +24,7 @@ final class _Trainees {
   late final nameField = 'name';
   late final phoneNumberField = 'phoneNumber';
   late final coachEmailField = 'coachEmail';
-  late final lastActive = 'lastActive';
+  late final lastActiveAtField = 'lastActive';
 }
 
 final class _Exercises {
